@@ -1,0 +1,8 @@
+.right{
+    display: "inline-flex";
+    padding : 27px;
+    flex-direction:column;
+   
+   
+    gap: 24px;
+}
